@@ -1,0 +1,10 @@
+C:\Users\lucas\source\repos\CrudBasico\CrudBasico\bin\Debug\CrudBasico.exe.config
+C:\Users\lucas\source\repos\CrudBasico\CrudBasico\bin\Debug\CrudBasico.exe
+C:\Users\lucas\source\repos\CrudBasico\CrudBasico\bin\Debug\CrudBasico.pdb
+C:\Users\lucas\source\repos\CrudBasico\CrudBasico\obj\Debug\CrudBasico.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\CrudBasico\CrudBasico\obj\Debug\CrudBasico.Form1.resources
+C:\Users\lucas\source\repos\CrudBasico\CrudBasico\obj\Debug\CrudBasico.Properties.Resources.resources
+C:\Users\lucas\source\repos\CrudBasico\CrudBasico\obj\Debug\CrudBasico.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\CrudBasico\CrudBasico\obj\Debug\CrudBasico.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\CrudBasico\CrudBasico\obj\Debug\CrudBasico.exe
+C:\Users\lucas\source\repos\CrudBasico\CrudBasico\obj\Debug\CrudBasico.pdb
